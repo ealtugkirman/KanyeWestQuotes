@@ -4,7 +4,7 @@ import Bmc from "../assets/bmc-full-logo-no-background.png"
 
 const Footer = () => {
     return (
-        <footer className='bg-first py-[16px]  text-white text-md text-center'>
+        <footer className='bg-third py-[16px]  text-first text-md text-center'>
             <div className='flex justify-center mx-auto'>
 
                 <a href="https://twitter.com/ealtugk" className='mr-4 ml-1 italic'>
@@ -18,7 +18,7 @@ const Footer = () => {
             </div>
             <div>
             <a href="https://www.buymeacoffee.com/ealtugkirm8">
-                    <img src={Bmc} alt="Buy me a Coffe" className="w-1/4 h-1/4 mt-12 mb-12 mx-auto" />
+                    <img src={Bmc}  alt="Buy me a Coffe" className="w-1/6 bg-third h-1/6 mt-12 mb-12 mx-auto" />
                 </a>
             </div>
 
