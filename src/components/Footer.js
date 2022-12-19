@@ -17,7 +17,7 @@ const Footer = () => {
                 </a>
             </div>
             <div>
-            <a href="hhttps://www.buymeacoffee.com/ealtugkirm8">
+            <a href="https://www.buymeacoffee.com/ealtugkirm8">
                     <img src={Bmc} alt="Buy me a Coffe" className="w-1/4 h-1/4 mt-12 mb-12 mx-auto" />
                 </a>
             </div>
