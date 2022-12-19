@@ -10,7 +10,7 @@ module.exports = {
       'white': '#ffffff',
       'first': '#181D31',
       'second': '#E5BA73',
-      'third': '#E6DDC4',
+      'third': '#FFFFD0',
       'tahiti': '#3ab7bf',
       'silver': '#ecebff',
       'bubble-gum': '#ff77e9',
