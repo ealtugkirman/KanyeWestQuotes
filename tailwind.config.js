@@ -9,7 +9,7 @@ module.exports = {
       current: 'currentColor',
       'white': '#ffffff',
       'first': '#181D31',
-      'second': '#678983',
+      'second': '#E5BA73',
       'third': '#E6DDC4',
       'tahiti': '#3ab7bf',
       'silver': '#ecebff',
