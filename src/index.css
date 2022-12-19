@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animate-bounce {
+    animation: bounce 0.5s ease-in-out infinite;
+  }
+
+@import
+ url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap'); 
+  
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+ 
+  
+  
+  .animate-spin {
+  animation: spin 3s linear infinite;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+
+  
+}
+
+p {
+  font-family: 'Arbutus', cursive;
+}
