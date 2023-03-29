@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KanyeWestQutes/static/css/main.4f157d4e.css",
+    "main.js": "/KanyeWestQutes/static/js/main.99ceeb64.js",
+    "static/js/787.5727570d.chunk.js": "/KanyeWestQutes/static/js/787.5727570d.chunk.js",
+    "static/media/light.png": "/KanyeWestQutes/static/media/light.3fa2ae97f85a7eb2ef86.png",
+    "static/media/bmc-full-logo-no-background.png": "/KanyeWestQutes/static/media/bmc-full-logo-no-background.c716959dfd2ff8cc1898.png",
+    "static/media/kh-right.png": "/KanyeWestQutes/static/media/kh-right.d572491f94c6bd6c9746.png",
+    "static/media/kh-left.png": "/KanyeWestQutes/static/media/kh-left.b0b8f45ded3e1b80575f.png",
+    "index.html": "/KanyeWestQutes/index.html",
+    "main.4f157d4e.css.map": "/KanyeWestQutes/static/css/main.4f157d4e.css.map",
+    "main.99ceeb64.js.map": "/KanyeWestQutes/static/js/main.99ceeb64.js.map",
+    "787.5727570d.chunk.js.map": "/KanyeWestQutes/static/js/787.5727570d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f157d4e.css",
+    "static/js/main.99ceeb64.js"
+  ]
+}
